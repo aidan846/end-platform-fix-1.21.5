@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "end.platform.fix.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
