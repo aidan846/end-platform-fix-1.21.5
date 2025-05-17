@@ -3,7 +3,7 @@
 	"id": "end-platform-fix",
 	"version": "${version}",
 	"name": "End Platform Fix",
-	"description": "Prevents the End spawn platform from deleting water when regenerating. Perfect for preserving farms or setups that rely on water near the End spawn point.",
+	"description": "Prevents the End spawn platform from deleting water when regenerating.",
 	"authors": [
 		"8617"
 	],
@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/end-platform-fix/icon.png",
 	"environment": "*",
 	"entrypoints": {
